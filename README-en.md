@@ -1,4 +1,4 @@
-<img align="left" src="img/volatus-logo.png" height="276">
+<img align="left" src="img/volatus-logo.png" height="150px">
 
 <h3 align="center">Lucas B. "Volatus" Martins</h3>
 
