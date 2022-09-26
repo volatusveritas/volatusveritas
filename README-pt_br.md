@@ -8,7 +8,7 @@
 
 ### Olá!
 
-Meu nome é Lucas, mas eu sou melhor conhecido como Volatus pela internet.
+Meu nome é Lucas, mas sou melhor conhecido como Volatus pela internet.
 Estou sempre com fome de saber e apaixonado por ensinar.
 Sou especialmente interessado em desenvolvimento de jogos, sistemas
 informacionais, automação, inteligência artificial, geração de dados, e não
