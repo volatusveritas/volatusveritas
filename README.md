@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <p align="center">
-    English (en-US) • <a href="README-pt_br.md">Português (pt-BR)</a>
+    <b>English (en-US)</b> • <a href="README-pt_br.md">Português (pt-BR)</a>
 </p>
 
 <img align="left" src="img/volatus-logo.png" height="180px">
